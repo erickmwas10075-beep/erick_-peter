@@ -14,4 +14,4 @@
 
 ## How to Reach Me
 - Email:[erickmwas10075@gmail.com]
-- LinkedIn: [your LinkedIn profile link]
+- LinkedIn: [https://www.linkedin.com/in/erick-mwangi-7291823b0/]
