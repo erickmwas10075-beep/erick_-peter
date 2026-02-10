@@ -10,7 +10,7 @@
 - [python]
 
 ## Current Projects
-- [Project name](link) — short description
+- [chatbot](link) —chats and speak to people 
 
 ## How to Reach Me
 - Email:[erickmwas10075@gmail.com]
