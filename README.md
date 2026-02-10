@@ -3,7 +3,7 @@
 ## About Me
 - I'm currently learning [AI at international youth fellowship].
 - I'm interested in [AI].
-- I'm looking to collaborate on [e.g., "beginner-friendly open source projects"].
+- I'm looking to collaborate on [beginner open source projects].
 
 ## Skills I'm Building
 - Git and GitHub
