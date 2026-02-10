@@ -15,4 +15,3 @@
 ## How to Reach Me
 - Email:[erickmwas10075@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/erick-mwangi-7291823b0/]
-add my profile
