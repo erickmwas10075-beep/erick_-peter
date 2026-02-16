@@ -12,6 +12,11 @@ linkedin link is https://www.linkedin.com/in/erick-mwangi-7291823b0/
 - i want to learn Ai
 * i want to learn how to creat an AI agent 
 + i want to learn AI in automation of machine
+### steps in making a commit in git
+1 make changes to your project file
+2 choose which change you want to change
+3 use the command git commit to finish it
+
 ### Table
 |Tool   |  purpose   |  link                                              |
 |-------|------------|----------------------------------------------------|
