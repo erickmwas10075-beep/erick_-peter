@@ -8,13 +8,13 @@ i want to create a chatbot
   github link is htttps://erickmwas10075-beep.com
 
 linkedin link is https://www.linkedin.com/in/erick-mwangi-7291823b0/
-
+### what i want to learn
 i want to learn Ai
 
 i want to learn how to creat an AI agent 
 
 i want to learn AI in automation of machine
-
+### Table
 |Tool   |  purpose   |  link                                              |
 |-------|------------|----------------------------------------------------|
 |github | store code |https://erickmwas10075-beep.github.io/erick_-peter/ |
