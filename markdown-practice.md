@@ -3,7 +3,7 @@ to learn AI
 ### This semester
 i want to create a chatbot
  
-** learning ** * ai for solving problem and * `making work easier`
+**learning***ai for solving problem and*making work easier`
 ### my links
   github link is htttps://erickmwas10075-beep.com
 
