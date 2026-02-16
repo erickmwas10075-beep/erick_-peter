@@ -20,6 +20,7 @@ i want to learn AI in automation of machine
 |github | store code |https://erickmwas10075-beep.github.io/erick_-peter/ |
 |prthon | make code  |                                                    |
 --------------------------------------------------------------------------
+### tasks
 -[X]create a github account   
 
 -[X]create a readme in github
