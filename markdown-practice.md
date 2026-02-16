@@ -9,9 +9,11 @@ i want to create a chatbot
 
 linkedin link is https://www.linkedin.com/in/erick-mwangi-7291823b0/
 
-..i want to learn Ai
-..i want to learn how to creat an AI agent 
-..i want to learn AI in automation
+i want to learn Ai
+
+i want to learn how to creat an AI agent 
+
+i want to learn AI in automation
 
 |Tool   |  purpose   |  link                                              |
 |-------|------------|----------------------------------------------------|
