@@ -28,7 +28,7 @@ linkedin link is https://www.linkedin.com/in/erick-mwangi-7291823b0/
 - [X] markdown practice
 
 ```python
-print("Hello,World!");
+print("Hello,World!")
 ```
 
 >never give up on your dreams
