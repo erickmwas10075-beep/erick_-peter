@@ -4,7 +4,7 @@ to learn AI
 i want to create a chatbot
  
  **lerning ** ai * for improving in technology*'and solving solution'
-
+### my links
   github link is htttps://erickmwas10075-beep.com
 
 linkedin link is https://www.linkedin.com/in/erick-mwangi-7291823b0/
