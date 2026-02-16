@@ -3,7 +3,7 @@ to learn AI
 ### This semester
 i want to create a chatbot
  
- **lerning ** ai * for improving in technology*'and solving solution'
+ ** lerning ** ai * for improving in technology*'and solving solution'
 ### my links
   github link is htttps://erickmwas10075-beep.com
 
@@ -25,7 +25,7 @@ linkedin link is https://www.linkedin.com/in/erick-mwangi-7291823b0/
 |github | store code |https://erickmwas10075-beep.github.io/erick_-peter/ |
 |prthon | make code  |                                                    |
 --------------------------------------------------------------------------
-### tasks
+### tasks to do
 - [X] create a github account   
 
 - [X] create a readme in github
