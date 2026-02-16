@@ -1,6 +1,6 @@
-##my learning goal
+## my learning goal
 to learn AI
-###This semester
+### This semester
 i want to create a chatbot
 **lerning**ai* for improving in technology*'and solving solution'
 htttps://erickmwas10075-beep.com
