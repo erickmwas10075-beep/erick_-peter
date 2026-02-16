@@ -1,6 +1,6 @@
 ##my learning goal
 ###This semester
-**lerning**ai*is improving in technology*'and solving solution'
+**lerning**ai*for improving in technology*'and solving solution'
 htttps://erickmwas10075-beep.com
 https://www.linkedin.com/in/erick-mwangi-7291823b0/
 i want to learn Ai
