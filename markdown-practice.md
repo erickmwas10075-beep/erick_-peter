@@ -13,7 +13,7 @@ i want to learn Ai
 
 i want to learn how to creat an AI agent 
 
-i want to learn AI in automation
+i want to learn AI in automation of machine
 
 |Tool   |  purpose   |  link                                              |
 |-------|------------|----------------------------------------------------|
