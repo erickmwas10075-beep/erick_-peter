@@ -2,7 +2,8 @@
 to learn AI
 ### This semester
 i want to create a chatbot
-** lerning ** ai * for improving in technology*'and solving solution'
+ 
+ **lerning ** ai * for improving in technology*'and solving solution'
 htttps://erickmwas10075-beep.com
 https://www.linkedin.com/in/erick-mwangi-7291823b0/
 i want to learn Ai
