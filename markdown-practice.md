@@ -25,7 +25,7 @@ linkedin link is https://www.linkedin.com/in/erick-mwangi-7291823b0/
 
 - [X] creat a HTML in github
 
-- [X]markdown practice
+- [X] markdown practice
 
 '''python
 print("Hello,World!")
