@@ -19,11 +19,11 @@ linkedin link is https://www.linkedin.com/in/erick-mwangi-7291823b0/
 |prthon | make code  |                                                    |
 --------------------------------------------------------------------------
 ### tasks
-- [X]create a github account   
+- [X] create a github account   
 
-- [X]create a readme in github
+- [X] create a readme in github
 
-- [X]creat a HTML in github
+- [X] creat a HTML in github
 
 - [X]markdown practice
 
