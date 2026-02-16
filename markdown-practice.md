@@ -1,5 +1,7 @@
 ##my learning goal
+to learn AI
 ###This semester
+i want to create a chatbot
 **lerning**ai* for improving in technology*'and solving solution'
 htttps://erickmwas10075-beep.com
 https://www.linkedin.com/in/erick-mwangi-7291823b0/
@@ -13,10 +15,8 @@ i want to learn AI in automation
 --------------------------------------------------------------------------
 [X] create a github account   
 [X] create a readme in github
-[X] 
-creat a HTML in github
-[X] 
-markdown practice
+[X] creat a HTML in github
+[X] markdown practice
 
 '''python
 print("Hello,World!")
